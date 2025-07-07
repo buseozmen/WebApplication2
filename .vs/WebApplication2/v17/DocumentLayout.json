@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\services\\efobjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\efobjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\controllers\\objectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\objectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\interface\\iefobjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interface\\iefobjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:59:25.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "WebApplication2\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:22:09.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFObjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Services\\EFObjectService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\EFObjectService.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Services\\EFObjectService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\EFObjectService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswGMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:26:10.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "WebApplication2\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:17:25.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Interface\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IGenericRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Interface\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:16:02.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEFObjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IEFObjectService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Interface\\IEFObjectService.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IEFObjectService.cs",
+              "RelativeToolTip": "WebApplication2\\Interface\\IEFObjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:31:50.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ObjectController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ObjectController.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ObjectController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ObjectController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:12:04.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
