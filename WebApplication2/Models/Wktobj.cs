@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
+using NetTopologySuite.Geometries;
 
 namespace WebApplication2.Models;
 
@@ -15,6 +16,5 @@ public partial class Wktobj
     [StringLength(100)]
     public string? Name { get; set; }
 
-    [StringLength(300)]
-    public string? Wkt { get; set; }
+    public Geometry Wkt { get; set; }
 }

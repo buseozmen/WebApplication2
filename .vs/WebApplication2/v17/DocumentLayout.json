@@ -7,6 +7,34 @@
       "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\efobjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\dtos\\wktcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\wktcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\dtos\\wktupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\wktupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\validator\\wktvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\validator\\wktvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\models\\wktobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\wktobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\services\\objectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\objectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\services\\pointlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\pointlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|c:\\users\\buse\\source\\repos\\webapplication2\\webapplication2\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B30A403F-104F-423E-A94C-6F7E2D2756E7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,11 +66,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WktUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\DTOs\\WktUpdateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\DTOs\\WktUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\DTOs\\WktUpdateDto.cs",
+              "RelativeToolTip": "WebApplication2\\DTOs\\WktUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:44:51.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WktCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\DTOs\\WktCreateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\DTOs\\WktCreateDto.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\DTOs\\WktCreateDto.cs",
+              "RelativeToolTip": "WebApplication2\\DTOs\\WktCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:44:49.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Services\\ObjectService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\ObjectService.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Services\\ObjectService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\ObjectService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:21:15.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:36:07.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "WktValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Validator\\WktValidator.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Validator\\WktValidator.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Validator\\WktValidator.cs",
+              "RelativeToolTip": "WebApplication2\\Validator\\WktValidator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:42:41.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Repository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Repository\\GenericRepository.cs",
@@ -50,12 +139,11 @@
               "RelativeToolTip": "WebApplication2\\Repository\\GenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T10:59:25.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T10:59:25.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Repository\\UnitOfWork.cs",
@@ -63,8 +151,7 @@
               "RelativeToolTip": "WebApplication2\\Repository\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T10:22:09.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T10:22:09.647Z"
             },
             {
               "$type": "Document",
@@ -74,14 +161,38 @@
               "RelativeDocumentMoniker": "WebApplication2\\Services\\EFObjectService.cs",
               "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Services\\EFObjectService.cs",
               "RelativeToolTip": "WebApplication2\\Services\\EFObjectService.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAswGMAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T06:26:10.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Wktobj.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Wktobj.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Wktobj.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Wktobj.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Wktobj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:30:36.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PointListService.cs",
+              "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Services\\PointListService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\PointListService.cs",
+              "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Services\\PointListService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\PointListService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:21:05.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Interface\\IUnitOfWork.cs",
@@ -89,12 +200,11 @@
               "RelativeToolTip": "WebApplication2\\Interface\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T10:17:25.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T10:17:25.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Interface\\IGenericRepository.cs",
@@ -102,12 +212,11 @@
               "RelativeToolTip": "WebApplication2\\Interface\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T10:16:02.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T10:16:02.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "IEFObjectService.cs",
               "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Interface\\IEFObjectService.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Interface\\IEFObjectService.cs",
@@ -115,21 +224,19 @@
               "RelativeToolTip": "WebApplication2\\Interface\\IEFObjectService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T10:31:50.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T10:31:50.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ObjectController.cs",
               "DocumentMoniker": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ObjectController.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ObjectController.cs",
               "ToolTip": "C:\\Users\\Buse\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\ObjectController.cs",
               "RelativeToolTip": "WebApplication2\\Controllers\\ObjectController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T17:12:04.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T17:12:04.157Z"
             }
           ]
         }

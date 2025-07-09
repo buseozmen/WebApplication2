@@ -63,11 +63,19 @@
               "target": "Package",
               "version": "[9.0.6, )"
             },
+            "NetTopologySuite.IO.GeoJSON4STJ": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
             "Npgsql": {
               "target": "Package",
               "version": "[9.0.3, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite": {
               "target": "Package",
               "version": "[9.0.4, )"
             },

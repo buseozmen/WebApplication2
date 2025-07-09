@@ -1,13 +1,18 @@
 ﻿using System.Text.RegularExpressions;
+using NetTopologySuite.IO;
+using WebApplication2.DTOs;
 using WebApplication2.Models;
 using WebApplication2.Response;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace WebApplication2.Validator
 {
     public static class WktValidator
     {
-        private static readonly string _wktPattern = @"^(-?\d+\s+-?\d+\s*,\s*)*(-?\d+\s+-?\d+)$";
+        //private static readonly string _wktPattern = @"^(-?\d+\s+-?\d+\s*,\s*)*(-?\d+\s+-?\d+)$";
+        private static readonly string _wktPattern =
+            @"^(POINT\s*\(\s*-?\d+(\.\d+)?\s+-?\d+(\.\d+)?\s*\)|" +
+            @"LINESTRING\s*\(\s*(-?\d+(\.\d+)?\s+-?\d+(\.\d+)?\s*,\s*)*(-?\d+(\.\d+)?\s+-?\d+(\.\d+)?)\s*\)|" +
+            @"POLYGON\s*\(\(\s*(-?\d+(\.\d+)?\s+-?\d+(\.\d+)?\s*,\s*)*(-?\d+(\.\d+)?\s+-?\d+(\.\d+)?)*\s*\)\))$";
 
         public static Result Validate(Wktobj obj)
         {
@@ -17,11 +22,14 @@ namespace WebApplication2.Validator
             if (string.IsNullOrWhiteSpace(obj.Name))
                 return BaseValidator.Fail("İsim boş olamaz.");
 
-            if (string.IsNullOrWhiteSpace(obj.Wkt))
+            if (obj.Wkt == null)
                 return BaseValidator.Fail("WKT değeri boş olamaz.");
 
-            if (!Regex.IsMatch(obj.Wkt.Trim(), _wktPattern))
-                return BaseValidator.Fail("Geçerli bir WKT giriniz. Örnek: 30 10, 10 30, 40 40");
+            var writer = new WKTWriter();
+            var wktText = writer.Write(obj.Wkt);
+
+            if (!Regex.IsMatch(wktText.Trim(), _wktPattern))
+                return BaseValidator.Fail("Geçerli bir WKT giriniz. Örnek: POINT (30 10), LINESTRING (30 10, 10 30), POLYGON ((30 10, 40 40, 30 10))");
 
             return BaseValidator.Success("Geçerli.");
         }
